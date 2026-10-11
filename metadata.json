@@ -1,0 +1,6 @@
+{
+  "name": "Somi Dental Clinic",
+  "description": "Oral Maxillo Periodontist and Invisalign Orthodontist doctors in Arrah. Specialist periodontal, maxillofacial, and Invisalign orthodontic care on Mahadeva Road, Arrah.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
